@@ -1,9 +1,14 @@
 # Telco-Customer-Churn-EDA-ML
 EDA-ML for Telco Customer Churn Data
 
-![6-Ways-CRM-Stop-Customer-Churn](https://user-images.githubusercontent.com/113813929/201361858-5bc0e7f2-1d31-466b-9011-5c064f639a48.png)
+![Security Features](https://user-images.githubusercontent.com/113813929/203609273-6d64695c-36e3-4ed1-85b4-fcec1a8c0827.jpg)
 
-In this repository, we will do Exploratory Data Analysis - EDA and find the best models. There are four different models :
+<br>
+
+**Customer churn** is one of the most important metrics for a growing business to evaluate. While it's not the happiest measure, it's a number that can give your company the hard truth about its customer retention. **Customer churn** is the percentage of customers that stopped using your company's product or service during a certain time frame. <br>
+[source](https://blog.hubspot.com/service/what-is-customer-churn)
+
+In this repository, we will do Exploratory Data Analysis - EDA and find the best models to predict **Customer Churn** based on features from dataset. There are four different models :
 
 1. Random Forest
 2. Decision Tree
