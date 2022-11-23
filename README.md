@@ -1,15 +1,26 @@
-# Telco-Customer-Churn-EDA
-EDA for Telco Customer Churn Data
+# Telco-Customer-Churn-EDA-ML
+EDA-ML for Telco Customer Churn Data
 
 ![6-Ways-CRM-Stop-Customer-Churn](https://user-images.githubusercontent.com/113813929/201361858-5bc0e7f2-1d31-466b-9011-5c064f639a48.png)
 
-This my first attempt on Exploratory Data Analysis (EDA) as part of weekly assignment for **Dibimbing Data Science Class Batch 16**. Here, I used Telco Customer Churn dataframe from kaggle. [click here for the data](https://www.kaggle.com/datasets/blastchar/telco-customer-churn). <br>
+In this repository, we will do Exploratory Data Analysis - EDA and find the best models. There are four different models :
+
+1. Random Forest
+2. Decision Tree
+3. KNN
+4. Logistic Regression
+
+From those four models, we compared the accuracy rate, to define the best model. The highest accuracy value of the model, mean the model is the best pick for dataset.
 
 ## Goals for the Project:
-1. Find what is the most affected customer to **churn** and can it be predicted? <br>
-2. Find what is most favorable services or add-ons customers prefer? <br>
-3. How long customers usually stayed with the company? <br>
+**Exploratory Data Analysis** <br>
+1. Find out the insights for each features
+2. Find out what affected customer to **Churn** the most.
+3. Find out the relationship between each features with **Churn**
+
+**Machine Learning** <br>
+1. Find out what is the best models for this dataset
 
 ## Used Library:
-Numpy, Panda, Matplotlib and Seaborn
+numpy, pandas, matplotlib, seaborn, and sklearn
 
