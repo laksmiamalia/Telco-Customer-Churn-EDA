@@ -1,7 +1,7 @@
 # Telco-Customer-Churn-EDA-ML
 EDA-ML for Telco Customer Churn Data
 
-![Security Features](https://user-images.githubusercontent.com/113813929/203609273-6d64695c-36e3-4ed1-85b4-fcec1a8c0827.jpg)
+![Security Features](https://user-images.githubusercontent.com/113813929/203914709-ed4e5cb8-1c6d-4d40-b760-1ce3bfe0cfea.jpg)
 
 <br>
 
